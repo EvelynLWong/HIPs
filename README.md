@@ -12,7 +12,7 @@ There are three types of HIP:
    - **Core:** This includes improvements requiring a consensus fork or as well as changes that are not necessarily consensus critical but may be relevant to core development discussions.
    - **Networking:** This includes improvements around proposed improvements to network protocol specifications.
    - **Interface:** This includes improvements around client API/RPC specifications and standards, and also certain language-level standards.
-   - **Format:**  This includes application-level standards and conventions, including contract standards such as token standards, name registries, URI schemes, library/package formats, and wallet formats.
+   - **HRC:**  Hedera Request For Comment. This includes application-level standards and conventions, including contract standards such as token standards, name registries, etc.
 
 - **An Informational HIP** - describes an Hashgraph design issue, or provides general guidelines or information to the Hashgraph community, but does not propose a new feature. Informational HIPs do not necessarily represent Hashgraph community consensus or recommendation, so users and implementers are free to ignore Informational HIPs.
 
@@ -23,7 +23,7 @@ Each HIPs should only be one single key proposal and/or idea. The idea should be
 A HIP must meet certain minimum criteria. It must be clear and have a complete description of the proposed enhancement. The enhancement must represent a net improvement. The proposed implementation, if applicable, must be solid and must not complicate the protocol unduly.
 
 ## HIP Work Flow
-Parties involved in this process are you, the HIP author, the HIP editors, and the Hashgraph Core Developers.
+Parties involved in this process are you, the HIP author, the HIP editors, and the Hashgraph Developers.
 
 Evaluate your idea: Before you begin, ask the Hashgraph community first if your idea is original to save time. Make sure the idea is applicable to the entire community and not to one particular author. While it may be a good idea for an author it may not be the case for all areas of the Hashgraph community. An excellent place to discuss your proposal is here in the Issues section of this repository. You can start creating a more formalized language around your HIP.
 
